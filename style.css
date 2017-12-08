@@ -1,0 +1,41 @@
+<!DOCTYPE CSS>
+
+body {
+    background-color: Aliceblue;
+  margin:0px; padding:0px
+}
+
+.center p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+
+
+h1 {
+
+    color: #9f6060;
+    margin-top: 94px; margin-bottom: 70px;font-family: Palatino Linotype; font-weight:bolder;font-size: 64px;
+}
+
+h2{color: #00e6e6; margin-left: 560px;margin-right: 560px; font-family: "Lucida Sans Unicode","Geneva"; font-weight:100;line-height: 1.6;}
+h3{color: #d98c8c; margin-left: 420px; margin-right: 380px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;font-weight: lighter;font-size: 18px;
+>:1.5;float:center;}
+
+h4{color: #2277aa; font-family: "Trebuchet MS", Helvetica, sans-serif; font-weight: lighter; margin-left: 220px; margin-right: 220px;line-height: 1.6}
+
+h5{margin-left: 380px; margin-right:380px; font-family:"Courier New", Courier, monospace; font-weight:lighter; color:grey;align:center;
+font-size:11px}
+
+img{text-align:center;display:block; margin:auto; padding:4px;
+  }
+
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
